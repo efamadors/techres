@@ -1,0 +1,38 @@
+{
+  "visits": [
+    {
+      "id": 1,
+      "residentId": 1,
+      "visitingLocationId": 1,
+      "visitorName": "Edgar Fabricio Amador Santos",
+      "dateIn": "11/10/2019 07:00",
+      "dateOut": "11/10/2019 5:00 PM",
+      "idNumber": "0504198200201",
+      "typeOfVisit": "Visita",
+      "notes": "",
+      "status": "ACTIVO"
+    },
+    {
+      "residentId": 1,
+      "visitingLocationId": 1,
+      "dateIn": "2019-11-09T20:00:10.415-06:00",
+      "visitorName": "Maria Carranza",
+      "idNumber": "1708198900400",
+      "typeOfVisit": "Amigo o Familiar",
+      "notes": "Invitacion",
+      "id": 4,
+      "status": "ACTIVO"
+    },
+    {
+      "residentId": 1,
+      "visitingLocationId": 1,
+      "dateIn": "2019-11-09T09:30:18.606-06:00",
+      "visitorName": "Valeria Fernanda Amador Carranza",
+      "idNumber": "05042017000215",
+      "typeOfVisit": "Reunion",
+      "notes": "Trabajo",
+      "id": 5,
+      "status": "ACTIVO"
+    }
+  ]
+}
