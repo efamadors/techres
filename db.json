@@ -13,26 +13,15 @@
       "status": "ACTIVO"
     },
     {
-      "residentId": 1,
-      "visitingLocationId": 1,
-      "dateIn": "2019-11-09T20:00:10.415-06:00",
-      "visitorName": "Maria Carranza",
-      "idNumber": "1708198900400",
+      "dateIn": "2019-11-10T19:06:43.317Z",
+      "visitorName": "Valeria Amador",
+      "idNumber": "05042001200565",
       "typeOfVisit": "Amigo o Familiar",
-      "notes": "Invitacion",
-      "id": 4,
-      "status": "ACTIVO"
-    },
-    {
+      "notes": "Se quedara una semana completa",
       "residentId": 1,
       "visitingLocationId": 1,
-      "dateIn": "2019-11-09T09:30:18.606-06:00",
-      "visitorName": "Valeria Fernanda Amador Carranza",
-      "idNumber": "05042017000215",
-      "typeOfVisit": "Reunion",
-      "notes": "Trabajo",
-      "id": 5,
-      "status": "ACTIVO"
+      "status": "ACTIVO",
+      "id": 2
     }
   ]
 }
